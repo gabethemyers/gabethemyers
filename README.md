@@ -5,7 +5,7 @@
   
   **Computer Science Senior @ CSUMB | Graduating Spring 2026**
   
-  <a href="https://linkedin.com/in/gabriel-myers-40748b237">
+  <a href="https://www.linkedin.com/in/gabriel-myers-dev">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:gabethemyers@gmail.com">
