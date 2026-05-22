@@ -22,7 +22,7 @@
 I build backend systems and data pipelines with Python, Java, Spring Boot, PostgreSQL, Docker, and AWS. I'm an Arch Linux enthusiast and daily drive **CachyOS** and **EndeavourOS**.
 
 - 🎓 BS Computer Science, Software Engineering Concentration — CSUMB, Spring 2026, Cum Laude
-- 📖 Currently learning: System Design, Distributed Systems
+- 📖 Currently learning: Go, System Design, Distributed Systems
 - ⚡ Outside of work: tinkering with local LLM setups, gaming, and hanging out with my cats
 
 ### 🛠️ Tech Stack
@@ -33,8 +33,9 @@ I build backend systems and data pipelines with Python, Java, Spring Boot, Postg
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
